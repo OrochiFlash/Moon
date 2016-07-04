@@ -3,8 +3,8 @@ title:              Flash of Dawn
 bio:                'Code, garden, grow.'
 description:        "Join me as on my journey to become the best developer I can be. In the greatest sence on the word."
 logo:               'https://pixabay.com/static/uploads/photo/2013/06/25/17/29/ad-141170_960_720.jpg'
-background:         'http://landscapepainting.gallery/wp-content/uploads/2014/04/Sunrise-from-Tayport-750x594.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+background:         'http://png.clipart.me/graphics/previews/198/beautiful-vintage-floral-seamless-pattern-garden-blossom-blue-flowers-vector-illustration-seamless-pattern-can-be-used-for_198399953.jpg'
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://orochiflash.github.io/
 
