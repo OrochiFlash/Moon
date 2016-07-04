@@ -2,7 +2,7 @@
 title:              Flash of Dawn
 bio:                'Code, garden, grow.'
 description:        "Join me as on my journey to become the best developer I can be. In the greatest sence on the word."
-logo:               'assets/img/logo.png'
+logo:               'https://pixabay.com/static/uploads/photo/2013/06/25/17/29/ad-141170_960_720.jpg'
 background:         'http://landscapepainting.gallery/wp-content/uploads/2014/04/Sunrise-from-Tayport-750x594.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
