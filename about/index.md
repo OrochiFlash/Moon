@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: See the Light
 date: 2016-06-01
 ---
     
